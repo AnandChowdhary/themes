@@ -9,6 +9,14 @@ If you want an intro about themes, you can watch this [CGP Grey video](https://w
 [![Readme CI](https://github.com/AnandChowdhary/blog/workflows/Readme%20CI/badge.svg)](https://github.com/AnandChowdhary/blog/actions?query=workflow%3A%22Readme+CI%22)
 
 <!--notes-->
+
+## 🌯 Summary
+
+- 1 notes in 1 years
+
+### 2022
+
+- [Year of Teamwork](./themes/2022/year-of-teamwork.md) (284 words), July 11, 2022
 <!--/notes-->
 
 ## ℹ️ About this repository
