@@ -20,4 +20,4 @@ jobs:
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
           commitMessage: ":pencil: Update themes summary [skip ci]"
-          dirName: "theme"
+          dirName: "themes"
