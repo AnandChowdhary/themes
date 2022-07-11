@@ -1,5 +1,5 @@
 ---
-year: 2022
+date: 2022
 ---
 
 # Year of Teamwork
