@@ -12,11 +12,15 @@ If you want an intro about themes, you can watch this [CGP Grey video](https://w
 
 ## 🌯 Summary
 
-- 2 notes in 2 years
+- 3 notes in 3 years
 
 ### 2022
 
 - [Year of Teamwork](./themes/2022/year-of-teamwork.md) (284 words), January 1, 2022
+
+### 2021
+
+- [Year of Commitment](./themes/2021/year-of-commitment.md) (212 words), January 1, 2021
 
 ### 2020
 
