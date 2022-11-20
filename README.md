@@ -16,11 +16,11 @@ If you want an intro about themes, you can watch this [CGP Grey video](https://w
 
 ### 2022
 
-- [Year of Teamwork](./themes/2022/year-of-teamwork.md) (284 words), July 11, 2022
+- [Year of Teamwork](./themes/2022/year-of-teamwork.md) (284 words), January 1, 2022
 
 ### 2020
 
-- [Year of Long Term](./themes/2020/year-of-long-term.md) (169 words), November 20, 2022
+- [Year of Long Term](./themes/2020/year-of-long-term.md) (169 words), January 1, 2020
 <!--/notes-->
 
 ## ℹ️ About this repository

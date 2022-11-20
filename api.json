@@ -1,15 +1,15 @@
 [
   {
-    "slug": "year-of-teamwork.md",
-    "title": "Year of Teamwork",
-    "date": "2022-07-11T13:55:47.000Z",
-    "words": 284
-  },
-  {
     "slug": "year-of-long-term.md",
     "title": "Year of Long Term",
-    "date": "2022-11-20T16:21:04.000Z",
+    "date": "2020-01-01T00:00:00.000Z",
     "excerpt": "I didn't write a blog post about my theme in 2020, but here's an excerpt from my blog post 2022 will be the Year of Teamwork which summarizes my thinking behind this",
     "words": 169
+  },
+  {
+    "slug": "year-of-teamwork.md",
+    "title": "Year of Teamwork",
+    "date": "2022-01-01T00:00:00.000Z",
+    "words": 284
   }
 ]
