@@ -12,7 +12,11 @@ If you want an intro about themes, you can watch this [CGP Grey video](https://w
 
 ## 🌯 Summary
 
-- 3 themes in 3 years
+- 4 themes in 4 years
+
+### 2023
+
+- [Year of Relationships](./themes/2023/year-of-relationships.md)
 
 ### 2022
 
