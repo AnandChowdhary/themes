@@ -1,3 +1,7 @@
+---
+date: 2023
+---
+
 # Year of Relationships
 
 I want to improve my relationships with my work, myself, and my surroundings in my Year of Relationships:
