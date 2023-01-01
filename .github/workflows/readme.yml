@@ -18,6 +18,12 @@ jobs:
       - name: Update summary & API
         uses: AnandChowdhary/notes-summary@HEAD
         with:
-          token: "${{ secrets.GITHUB_TOKEN }}"
+          token: ${{ secrets.GITHUB_TOKEN }}
           commitMessage: ":pencil: Update themes summary [skip ci]"
           directory: "themes"
+      - name: Dispatch AnandChowdhary/everything update
+        uses: benc-uk/workflow-dispatch@v1.2.2
+        with:
+          repo: AnandChowdhary/everything
+          workflow: api.yml
+          token: ${{ secrets.WORKFLOW_DISPATCH_TOKEN }}
