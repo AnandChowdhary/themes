@@ -42,5 +42,16 @@
     "attributes": {
       "date": 2023
     }
+  },
+  {
+    "slug": "year-of-gratitude.md",
+    "path": "themes/2024/year-of-gratitude.md",
+    "source": "https://github.com/AnandChowdhary/themes/blob/main/themes/2024/year-of-gratitude.md",
+    "title": "Year of Gratitude",
+    "date": "2024-01-01T00:00:00.000Z",
+    "excerpt": "In 2024, I want to focus on the wellbeing of myself and those around me:\n\nI want to focus on my mental health and give myself time to exercise, introspect, and learn. I want to properly take Sundays off and spend more time with myself and my loved ones, and I want to see my personal trainer and my therapist with more regularity and review my goals frequently. Secondly, I want to actively practice gratitude to be more thankful for everything I have. I want to be more appreciative of the people in",
+    "attributes": {
+      "date": 2024
+    }
   }
 ]

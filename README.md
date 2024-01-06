@@ -12,7 +12,11 @@ If you want an intro about themes, you can watch this [CGP Grey video](https://w
 
 ## 🌯 Summary
 
-- 4 themes in 4 years
+- 5 themes in 5 years
+
+### 2024
+
+- [Year of Gratitude](./themes/2024/year-of-gratitude.md)
 
 ### 2023
 
