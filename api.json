@@ -8,7 +8,8 @@
     "excerpt": "I didn't write a blog post about my theme in 2020, but here's an excerpt from my blog post 2022 will be the Year of Teamwork which summarizes my thinking behind this theme:\n\n2020 was my Year of Long Term. I had just come back after living for a short while in the San Francisco Bay Area (after an exchange semester at Santa Clara University) and I knew that I'd be graduating from the University of Twente in 2020, so I had to decide where to fo",
     "attributes": {
       "date": 2020
-    }
+    },
+    "emoji": "📅⏳🎯"
   },
   {
     "slug": "year-of-commitment.md",
@@ -19,7 +20,8 @@
     "excerpt": "I didn't write a blog post about my theme in 2021, but here's an excerpt from my blog post 2022 will be the Year of Teamwork which summarizes my thinking behind this theme:\n\nMy theme for 2021 was Year of Commitment. In a post-pandemic world, I decided to double down on long-term goals (work, health, and personal life), and after living in India for most of the year, I wanted to move back to the Netherlands -- but not alone this time. In the last quarter of",
     "attributes": {
       "date": 2021
-    }
+    },
+    "emoji": "🎯🤝📅"
   },
   {
     "slug": "year-of-teamwork.md",
@@ -30,7 +32,8 @@
     "excerpt": "Year of Teamwork stems from some of the issues I've been facing lately with delegation. Reflecting on my calendar in the past few months, I see that I've already started spending significantly more time on code review and planning than actually writing code than I used to this time last year, but it's not nearly enough. I still spend the majority of my time as an individual contributor, which is scaling very poorly.",
     "attributes": {
       "date": 2022
-    }
+    },
+    "emoji": "🤝🧠📈"
   },
   {
     "slug": "year-of-relationships.md",
@@ -41,7 +44,8 @@
     "excerpt": "I want to improve my relationships with my work, myself, and my surroundings in my Year of Relationships:\n\nI want a healthy relationship with my work. I want to continue to work hard on my company. 2022 was my highest productivity year yet, and I don’t want that to change in 2023, while taking enough time off and maintaining a healthy balance. I also want to plan better and spend time in structured thinking. Secondly, I want a strong relationship with my body & min",
     "attributes": {
       "date": 2023
-    }
+    },
+    "emoji": "❤️💪🤝"
   },
   {
     "slug": "year-of-gratitude.md",
@@ -52,6 +56,7 @@
     "excerpt": "In 2024, I want to focus on the wellbeing of myself and those around me:\n\nI want to focus on my mental health and give myself time to exercise, introspect, and learn. I want to properly take Sundays off and spend more time with myself and my loved ones, and I want to see my personal trainer and my therapist with more regularity and review my goals frequently. Secondly, I want to actively practice gratitude to be more thankful for everything I have. I want to be more appreciative of the people in",
     "attributes": {
       "date": 2024
-    }
+    },
+    "emoji": "🧘‍♂️🙏🤝"
   }
 ]
