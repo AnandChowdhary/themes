@@ -12,7 +12,11 @@ If you want an intro about themes, you can watch this [CGP Grey video](https://w
 
 ## 🌯 Summary
 
-- 5 themes in 5 years
+- 6 themes in 6 years
+
+### 2025
+
+- [ 💖📅✨Year of Sukriti](./themes/2025/year-of-sukriti.md)
 
 ### 2024
 
