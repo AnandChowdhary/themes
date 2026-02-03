@@ -12,7 +12,11 @@ If you want an intro about themes, you can watch this [CGP Grey video](https://w
 
 ## 🌯 Summary
 
-- 6 themes in 6 years
+- 7 themes in 7 years
+
+### 2026
+
+- 🔭📚🧭 [Year of Discovery](./themes/2026/year-of-discovery.md)
 
 ### 2025
 

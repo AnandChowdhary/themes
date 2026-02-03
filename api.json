@@ -70,5 +70,17 @@
       "date": 2025
     },
     "emoji": "💖📅✨"
+  },
+  {
+    "slug": "year-of-discovery.md",
+    "path": "themes/2026/year-of-discovery.md",
+    "source": "https://github.com/AnandChowdhary/themes/blob/main/themes/2026/year-of-discovery.md",
+    "title": "Year of Discovery",
+    "date": "2026-01-01T00:00:00.000Z",
+    "excerpt": "After exiting FirstQuadrant, I find myself at a crossroads that's both scary and liberating. For the first time in a decade, I have a clean slate: I'm not pivoting, no longer racing against a runway, not trying to make something work; I can actually choose what's next based on what resonates most. I want to explore ideas. Carlo and I are spending a few hours every other day thinking about new concepts, talking to users, and validating problems. But this time, I'm not rushing to build.",
+    "attributes": {
+      "date": 2026
+    },
+    "emoji": "🔭📚🧭"
   }
 ]
